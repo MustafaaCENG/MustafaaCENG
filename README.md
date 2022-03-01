@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MustafaaCENG
+- 👋 Hi, I’m Mustafa ( @MustafaaCENG ) Karacukur. I live in Turkey. 
 - 👀 I’m interested in Computer Sciene, Software Developing and Hardware Technologies
 - 🌱 I’m currently learning JAVA and C 
 - 📫 How to reach me 

@@ -8,7 +8,7 @@
   https://www.instagram.com/mustafaakaracukur/
 
   
-  https://www.linkedin.com/in/mustafa-kara%C3%A7ukur-3139451b5/
+  https://www.linkedin.com/in/mustafakaracukur
   
   mustafaa.fma@gmail.com 
 

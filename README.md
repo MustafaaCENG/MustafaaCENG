@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m Mustafa ( @MustafaaCENG ) Karacukur. I live in Turkey. 
 - 👀 I’m interested in Computer Sciene, Software Developing and Hardware Technologies
-- 🌱 I’m currently learning JAVA and C 
+- 🌱 I’m currently learning JAVA, C, JavaScript, Html, Css 
+- ✨ I’m trying to be full-stack developer :)
 - 📫 How to reach me https://twitter.com/cengbeyy61
 - 
   https://www.instagram.com/mustafaakaracukur/

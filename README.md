@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning Java, C, JavaScript, Html, Css 
 - ✨ I’m trying to be full-stack developer :)
 - 📫 How to reach me https://twitter.com/cengbeyy61
-- 
-  https://www.instagram.com/mustafaakaracukur/
-  
-  https://medium.com/@mustafakaracukur
+
   
   https://www.linkedin.com/in/mustafakaracukur
   

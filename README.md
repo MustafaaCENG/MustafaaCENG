@@ -4,14 +4,11 @@
 - 👀 I’m interested in Computer Science, Software Developing and Hardware Technologies
 - 🌱 I’m currently learning Java, React, JavaScript, Html, Css 
 - ✨ I’m trying to be full-stack developer :)
-- 📫 How to reach me https://twitter.com/cengbeyy61
+- 📫 How to reach me
 
-  
   https://www.linkedin.com/in/mustafakaracukur
   
   mustafaa.fma@gmail.com 
-
-  mustafaa.fma@outlook.com
   
   mustafa.karacukur@agu.edu.tr
 

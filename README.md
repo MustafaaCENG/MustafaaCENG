@@ -7,7 +7,7 @@
 
   https://www.linkedin.com/in/mustafakaracukur
   
-  mustafaa.fma@gmail.com 
+  karacukurmustafa@gmail.com
   
   mustafa.karacukur@agu.edu.tr
 

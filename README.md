@@ -2,15 +2,13 @@
 
 - 👋 Hi, I’m Mustafa ( @MustafaaCENG ) Karacukur. I live in Turkey.
 - I am a Full-Stack developer.
-- Working on Java - TypeScript - React - Spring Boot - Sql Database - MongoDB
+- Working on Java - TypeScript - React - Spring Boot - Sql Database - MongoDB - C# 
 - 📫 How to reach me
 
   https://www.linkedin.com/in/mustafakaracukur
   
   karacukurmustafa@gmail.com
   
-  mustafa.karacukur@agu.edu.tr
-
 
 <!---
 MustafaaCENG/MustafaaCENG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
